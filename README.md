@@ -1,4 +1,3 @@
-# 4sum-solution
 # 4Sum Java Solution
 
 This repository contains the Java solution for the [LeetCode 4Sum problem](https://leetcode.com/problems/4sum/).
